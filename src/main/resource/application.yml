@@ -1,0 +1,20 @@
+cs:
+  validCustomers: 
+        - PLUTO1
+        - PLUTO2
+  legalEntities: 
+        - CS Zurich
+  spotTypes: 
+          - Spot
+  forwardTypes: 
+          - Forward
+  optionType: 
+          - VanillaOption
+  europeanStyles: 
+          - EUROPEAN
+  americanStyles: 
+          - AMERICAN
+  todayDate: 09-10-2016
+  
+server:
+  port: 9081 
